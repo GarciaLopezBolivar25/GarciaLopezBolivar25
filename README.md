@@ -25,4 +25,4 @@
 
 ### 📊 Mis estadísticas de GitHub
 
-![Estadísticas de Bolivar:](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Estadísticas de Bolivar:](https://github-readme-stats.vercel.app/api?username=GarciaLopezBolivar25&show_icons=true&theme=radical)
