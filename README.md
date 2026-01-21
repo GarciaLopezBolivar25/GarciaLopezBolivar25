@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola, soy Bolivar 👋
 
-<!--
-**GarciaLopezBolivar25/GarciaLopezBolivar25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Ingeniero en Computación | Desarrollador Junior
 
-Here are some ideas to get you started:
+¡Bienvenido a mi portafolio! Soy un apasionado por la tecnología y el desarrollo de software, aqui encontraran algunos ejemplos de mis trabajos :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+* **Lenguajes:** Python, Java, C++, JavaScript, C, C#, 
+* **Frontend:** HTML5, CSS3, React
+* **Backend:** Node.js, Django, SQL
+* **Herramientas:** Git, GitHub, VS Code, Linux, Raspberry, Maya, OpenGL
+
+---
+
+### 🚀 Sobre mí
+
+* 🌱 Estoy aprendiendo: Docker, AWS, Kali Linux, Criptografia, Seguridad informatica, etc.
+* 🎓 Título: **Ingeniería en Computación** (Casi egresado)
+* 📫 Cómo contactarme: **(boligb25@gmail.com)** 
+
+---
+
+### 📊 Mis estadísticas de GitHub
+
+![Estadísticas de Bolivar:](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
